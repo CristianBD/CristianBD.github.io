@@ -1,0 +1,28 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "primer proyecto node",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cristiandb221@bitbucket.org/cristiandb1/guia-hoteles.git"
+  },
+  "author": "Cristian Bedoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/cristiandb1/guia-hoteles/issues"
+  },
+  "homepage": "https://bitbucket.org/cristiandb1/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
